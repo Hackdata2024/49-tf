@@ -16,7 +16,7 @@ web2.0
 *css
 
 About idea -
-Before going to the idea lets see how we got this idea , we are doing a survey of workers labours and construction workers . They are saying many and many problems in their life like * 1- they dont have second source of income they mostly dependt on thekedar mainly called as constractors 
+Before going to the idea lets see how we got this idea , we are doing a survey of workers labours and construction workers . They have many problems in their life like * 1- they dont have second source of income they mostly dependt on thekedar mainly called as constractors 
     * 2- No money for investing money for their children education
     * 3 - Not getting regular wages even after working daily they got late payments after begging for the hard earn money form the thekedar 
     * 4- mostly they are unaware about the government schemes 
